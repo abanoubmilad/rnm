@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">رنم</string>
+    <string name="copyright">ranm 1.0 ©%1$s Abanoub M.</string>
+    <string name="search_title">اسم الترنيمة</string>
+    <string name="search_body">كلمات الترنيمة</string>
+    <string name="share">شير</string>
+    <string name="tweet">تويت</string>
+    <string name="display">الترانيم</string>
+    <string name="search">بحث ترانيم</string>
+    <string name="contact">تواصل معنا</string>
+    <string name="searchfor">ابحث عن</string>
+    <string name="label.contact1">تواصل معنا عبر فيسبوك\nارسل آرائك مقترحاتك أو اى مشكلة واجهتك.</string>
+    <string name="label.contact2">or directly contact the developer\n( for personal contact )</string>
+    <string name="err.msg.db">خطأ أثناء محاولة الاتصال بقاعدة البيانات</string>
+
+</resources>
